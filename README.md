@@ -6,7 +6,6 @@ This is where I keep record of my `/public` self.
 
 + [Favorite Books / Audiobooks](BOOKS.md)
 + [Favorite Quotes](QUOTES.md)
-+ Angular2+ Resources (Coming Soon)
 
 ### Thanks
  
