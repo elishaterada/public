@@ -38,6 +38,10 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 + [Scrum Mega Pack Audible – Unabridged](http://amzn.to/2o89D3f) - Paul VII (Author), Ted R Brown (Narrator), Christian Carvajal (Narrator), Scott Clem (Narrator), Randal Schaffer (Narrator), Buddy Hatton (Narrator), Kevin Kollins (Narrator)
 
+## Biography
+
++ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future Audible – Unabridged](http://amzn.to/2rIXrbI) (Audible – Unabridged) - Ashlee Vance (Author), Fred Sanders (Narrator)
+
 ## Marketing & Sales
 
 + [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal](http://amzn.to/2oGRK9Q) (Audible – Unabridged) - Oren Klaff (Author, Narrator)
