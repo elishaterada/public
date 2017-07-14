@@ -16,31 +16,30 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 + [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug (Author)
 
-
 ## Management & Leadership
 
-+ [Algorithms to Live By: The Computer Science of Human Decisions Audible – Unabridged](http://amzn.to/2oBbUVx) - Brian Christian (Author, Narrator), Tom Griffiths (Author)
++ [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger (Author), Michael Quinlan (Narrator), Audible Studios for Bloomsbury (Publisher)
 
++ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian (Author, Narrator), Tom Griffiths (Author)
 
-+ [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier (Author), Daniel Maté (Narrator)
-
-
-+ [Extreme Ownership: How U.S. Navy SEALs Lead and Win Audible – Unabridged](http://amzn.to/2oGzFsq) - 
++ [Extreme Ownership: How U.S. Navy SEALs Lead and Win](http://amzn.to/2oGzFsq) - 
  Jocko Willink (Author, Narrator), Leif Babin (Author, Narrator)
 
-+ [Lean In: Women, Work, and the Will to Lead Audible – Unabridged](http://amzn.to/2n9vubx) - Sheryl Sandberg (Author), Elisa Donovan (Narrator)
++ [Lean In: Women, Work, and the Will to Lead](http://amzn.to/2n9vubx) - Sheryl Sandberg (Author), Elisa Donovan (Narrator)
 
-+ [Audible Sample Audible Sample The Five Dysfunctions of a Team: A Leadership Fable Audible – Unabridged](http://amzn.to/2o1ptfI) - Charles Stransky; introduction by Patrick Lencioni (Narrator), Patrick Lencioni (Author)
-
-+ [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations Audible – Original recording](http://amzn.to/2n9l4Zk) - The Great Courses (Author), Professor Michael A. Roberto (Narrator), Michael A. Roberto (Author)
++ [Scrum Mega Pack](http://amzn.to/2o89D3f) - Paul VII (Author), Ted R Brown (Narrator), Christian Carvajal (Narrator), Scott Clem (Narrator), Randal Schaffer (Narrator), Buddy Hatton (Narrator), Kevin Kollins (Narrator)
 
 + [TED Talks: The Official TED Guide to Public Speaking](http://amzn.to/2n9yW5L) (Audible – Unabridged) - Chris Anderson (Author, Narrator), Tom Rielly (Narrator), Kelly Stoetzel (Narrator)
 
-+ [Scrum Mega Pack Audible – Unabridged](http://amzn.to/2o89D3f) - Paul VII (Author), Ted R Brown (Narrator), Christian Carvajal (Narrator), Scott Clem (Narrator), Randal Schaffer (Narrator), Buddy Hatton (Narrator), Kevin Kollins (Narrator)
++ [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier (Author), Daniel Maté (Narrator)
+
++ [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.to/2o1ptfI) - Charles Stransky; introduction by Patrick Lencioni (Narrator), Patrick Lencioni (Author)
+
++ [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations Audible – Original recording](http://amzn.to/2n9l4Zk) - The Great Courses (Author), Professor Michael A. Roberto (Narrator), Michael A. Roberto (Author)
 
 ## Biography
 
-+ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future Audible – Unabridged](http://amzn.to/2rIXrbI) (Audible – Unabridged) - Ashlee Vance (Author), Fred Sanders (Narrator)
++ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) (Audible – Unabridged) - Ashlee Vance (Author), Fred Sanders (Narrator)
 
 ## Marketing & Sales
 
