@@ -10,11 +10,11 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 + [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford  (Author)
 
-## Usability
+## Creativity
 
-+ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug (Author)
++ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) - Audiobook – Original recording - The Great Courses (Author), Professor Gerard Puccio (Narrator), Gerard Puccio (Author), The Great Courses (Publisher)
 
-+ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug (Author)
++ [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) (Audible – Unabridged) - Steven Pressfield (Author), George Guidall (Narrator)
 
 ## Management & Leadership
 
@@ -37,11 +37,19 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 + [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations Audible – Original recording](http://amzn.to/2n9l4Zk) - The Great Courses (Author), Professor Michael A. Roberto (Narrator), Michael A. Roberto (Author)
 
+## Usability
+
++ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug (Author)
+
++ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug (Author)
+
 ## Biography
 
 + [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) (Audible – Unabridged) - Ashlee Vance (Author), Fred Sanders (Narrator)
 
 ## Marketing & Sales
+
++ [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) - Audiobook – Original recording - The Great Courses (Author), Professor Jonah Berger (Narrator), Jonah Berger (Author), The Great Courses (Publisher)
 
 + [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal](http://amzn.to/2oGRK9Q) (Audible – Unabridged) - Oren Klaff (Author, Narrator)
 
@@ -64,10 +72,6 @@ Books & Audiobooks I've read and listened worth keeping record of.
 ## Happiness
 
 + [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://amzn.to/2oB8PVx) (Audible – Unabridged) - Mark Manson (Author), Roger Wayne (Narrator)
-
-## Philosophy
-
-+ [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) (Audible – Unabridged) - Steven Pressfield (Author), George Guidall (Narrator)
 
 ## Humor
 
