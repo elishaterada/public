@@ -19,3 +19,7 @@ You should serve real users and not the imaginary ones you have not even met bef
 ## Don't be a slave to best practices
 
 You should follow best practices while you can afford it and be ready to break those practices when your business priority shifts. Being adaptive is far more critical for your business than being a slave to best practices that are created by other organizations in the different context.
+
+## Follow your leader and make best judgment calls
+
+You should follow your leader who is responsible for the outcome in the business. But don't just blindly follow them around because it is still in your responsibility to make your best judgment calls and own the result.
