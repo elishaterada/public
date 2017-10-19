@@ -1,4 +1,4 @@
-# Elisha’s Favorite Quotes
+# My Favorite Quotes
 
 My favorite quotes / tips worth keeping record of.
 
