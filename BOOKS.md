@@ -8,11 +8,11 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 + [The Pragmatic Programmer: From Journeyman to Maste](http://amzn.to/2o1HNp5) - Andrew Hunt (Author), David Thomas (Author)
 
-+ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford  (Author)
++ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford (Author)
 
 ## Creativity
 
-+ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) - Audiobook – Original recording - The Great Courses (Author), Professor Gerard Puccio (Narrator), Gerard Puccio (Author), The Great Courses (Publisher)
++ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) (Audible) - The Great Courses (Author), Professor Gerard Puccio (Narrator), Gerard Puccio (Author), The Great Courses (Publisher)
 
 + [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) (Audible – Unabridged) - Steven Pressfield (Author), George Guidall (Narrator)
 
@@ -35,7 +35,9 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 + [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.to/2o1ptfI) - Charles Stransky; introduction by Patrick Lencioni (Narrator), Patrick Lencioni (Author)
 
-+ [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations Audible – Original recording](http://amzn.to/2n9l4Zk) - The Great Courses (Author), Professor Michael A. Roberto (Narrator), Michael A. Roberto (Author)
++ [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](http://amzn.to/2n9l4Zk) (Audible) - The Great Courses (Author), Professor Michael A. Roberto (Narrator), Michael A. Roberto (Author)
+
++ [Effective Communication Skills](https://www.audible.com/pd/Self-Development/Effective-Communication-Skills-Audiobook/B00D94332Q) (Audible) - The Great Courses (Author), Professor Dalton Kehoe (Narrator), The Great Courses (Publisher)
 
 ## Usability
 
@@ -49,7 +51,7 @@ Books & Audiobooks I've read and listened worth keeping record of.
 
 ## Marketing & Sales
 
-+ [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) - Audiobook – Original recording - The Great Courses (Author), Professor Jonah Berger (Narrator), Jonah Berger (Author), The Great Courses (Publisher)
++ [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) (Audible) - The Great Courses (Author), Professor Jonah Berger (Narrator), Jonah Berger (Author), The Great Courses (Publisher)
 
 + [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal](http://amzn.to/2oGRK9Q) (Audible – Unabridged) - Oren Klaff (Author, Narrator)
 
