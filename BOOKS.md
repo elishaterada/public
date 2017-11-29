@@ -1,84 +1,91 @@
 # My Reading List
 
-Books & Audiobooks I've read and listened worth keeping record of.
+Books & Audiobooks I've read and listened worth keeping a record of.
 
 ## Programming
 
-+ [The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)](http://amzn.to/2oBafiP) - Chad Fowler (Author)
++ [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://amzn.to/2oBafiP) - Chad Fowler
 
-+ [The Pragmatic Programmer: From Journeyman to Maste](http://amzn.to/2o1HNp5) - Andrew Hunt (Author), David Thomas (Author)
++ [The Pragmatic Programmer: From Journeyman to Master](http://amzn.to/2o1HNp5) - Andrew Hunt, David Thomas
 
-+ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford (Author)
++ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford
 
 ## Creativity
 
-+ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) (Audible) - The Great Courses (Author), Professor Gerard Puccio (Narrator), Gerard Puccio (Author), The Great Courses (Publisher)
++ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) - The Great Courses, Gerard Puccio
 
-+ [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) (Audible – Unabridged) - Steven Pressfield (Author), George Guidall (Narrator)
++ [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) - Steven Pressfield
 
 ## Management & Leadership
 
-+ [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger (Author), Michael Quinlan (Narrator), Audible Studios for Bloomsbury (Publisher)
++ [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Laszlo Bock
 
-+ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian (Author, Narrator), Tom Griffiths (Author)
++ [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger
+
++ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian
 
 + [Extreme Ownership: How U.S. Navy SEALs Lead and Win](http://amzn.to/2oGzFsq) - 
- Jocko Willink (Author, Narrator), Leif Babin (Author, Narrator)
+ Jocko Willink
 
-+ [Lean In: Women, Work, and the Will to Lead](http://amzn.to/2n9vubx) - Sheryl Sandberg (Author), Elisa Donovan (Narrator)
++ [Lean In: Women, Work, and the Will to Lead](http://amzn.to/2n9vubx) - Sheryl Sandberg
 
-+ [Scrum Mega Pack](http://amzn.to/2o89D3f) - Paul VII (Author), Ted R Brown (Narrator), Christian Carvajal (Narrator), Scott Clem (Narrator), Randal Schaffer (Narrator), Buddy Hatton (Narrator), Kevin Kollins (Narrator)
++ [Scrum Mega Pack](http://amzn.to/2o89D3f) - Paul VII
 
-+ [TED Talks: The Official TED Guide to Public Speaking](http://amzn.to/2n9yW5L) (Audible – Unabridged) - Chris Anderson (Author, Narrator), Tom Rielly (Narrator), Kelly Stoetzel (Narrator)
++ [TED Talks: The Official TED Guide to Public Speaking](http://amzn.to/2n9yW5L) - Chris Anderson
 
-+ [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier (Author), Daniel Maté (Narrator)
++ [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier
 
-+ [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.to/2o1ptfI) - Charles Stransky; introduction by Patrick Lencioni (Narrator), Patrick Lencioni (Author)
++ [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.to/2o1ptfI) - Charles Stransky
 
-+ [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](http://amzn.to/2n9l4Zk) (Audible) - The Great Courses (Author), Professor Michael A. Roberto (Narrator), Michael A. Roberto (Author)
++ [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](http://amzn.to/2n9l4Zk) - The Great Courses, Michael A. Roberto
 
-+ [Effective Communication Skills](https://www.audible.com/pd/Self-Development/Effective-Communication-Skills-Audiobook/B00D94332Q) (Audible) - The Great Courses (Author), Professor Dalton Kehoe (Narrator), The Great Courses (Publisher)
++ [Effective Communication Skills](https://www.audible.com/pd/Self-Development/Effective-Communication-Skills-Audiobook/B00D94332Q) - The Great Courses
 
+## Productivity
+
++ [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Attention/dp/1101904038) - Chris Bailey
 ## Usability
 
-+ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug (Author)
++ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug
 
-+ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug (Author)
++ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug
 
 ## Biography
 
-+ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) (Audible – Unabridged) - Ashlee Vance (Author), Fred Sanders (Narrator)
++ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) - Ashlee Vance
 
 ## Marketing & Sales
 
-+ [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) (Audible) - The Great Courses (Author), Professor Jonah Berger (Narrator), Jonah Berger (Author), The Great Courses (Publisher)
++ [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) -  Chris Voss,‎ Tahl Raz
 
-+ [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal](http://amzn.to/2oGRK9Q) (Audible – Unabridged) - Oren Klaff (Author, Narrator)
++ [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) - The Great Courses
 
-+ [Purple Cow, New Edition: Transform Your Business by Being Remarkable](http://amzn.to/2oB9CWs) - Seth Godin (Author)
++ [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal](http://amzn.to/2oGRK9Q) - Oren Klaff
 
-+ [Fearless Negotiating: The Wish, Want, Walk Method to Reaching Agreements That Work](http://amzn.to/2oAo2X3) - Michael Donaldson (Author)
++ [Purple Cow, New Edition: Transform Your Business by Being Remarkable](http://amzn.to/2oB9CWs) - Seth Godin
 
-+ [Achieve Sales Excellence: The 7 Customer Rules for Becoming the New Sales Professional](http://amzn.to/2oBbf6d) - Howard Stevens (Author)
++ [Fearless Negotiating: The Wish, Want, Walk Method to Reaching Agreements That Work](http://amzn.to/2oAo2X3) - Michael Donaldson
+
++ [Achieve Sales Excellence: The 7 Customer Rules for Becoming the New Sales Professional](http://amzn.to/2oBbf6d) - Howard Stevens
 
 ## Graphic Design
 
-+ [Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design](http://amzn.to/2oBaXwv) - William Lidwell (Author), Kritina Holden (Author), Jill Butler (Author)
++ [Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design](http://amzn.to/2oBaXwv) - William Lidwell, Kritina Holden, Jill Butler
 
-+ [100 Things Every Designer Needs to Know About People](http://amzn.to/2n9rHuM) - Susan Weinschenk (Author)
++ [100 Things Every Designer Needs to Know About People](http://amzn.to/2n9rHuM) - Susan Weinschenk
 
 ## Home Improvement & Design
 
-+ [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/2o7UDT0) - Marie Kondo (Author)
++ [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/2o7UDT0) - Marie Kondo
 
 ## Happiness
 
-+ [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://amzn.to/2oB8PVx) (Audible – Unabridged) - Mark Manson (Author), Roger Wayne (Narrator)
++ [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://amzn.to/2oB8PVx) - Mark Manson
 
 ## Humor
 
-+ [100 Tricks to Appear Smart in Meetings: How to Get By Without Even Trying](http://amzn.to/2n9GAgw) - Sarah Cooper (Author)
++ [100 Tricks to Appear Smart in Meetings: How to Get By Without Even Trying](http://amzn.to/2n9GAgw) - Sarah Cooper
 
 ## Startup
 
-+ [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://amzn.to/2oBbsX3) - Guy Kawasaki (Author)
++ [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://amzn.to/2oBbsX3) - Guy Kawasaki
