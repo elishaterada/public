@@ -5,18 +5,12 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Laszlo Bock
 
-+ [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger
-
-+ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian
-
 + [Extreme Ownership: How U.S. Navy SEALs Lead and Win](http://amzn.to/2oGzFsq) - 
  Jocko Willink
 
 + [Lean In: Women, Work, and the Will to Lead](http://amzn.to/2n9vubx) - Sheryl Sandberg
 
 + [Scrum Mega Pack](http://amzn.to/2o89D3f) - Paul VII
-
-+ [TED Talks: The Official TED Guide to Public Speaking](http://amzn.to/2n9yW5L) - Chris Anderson
 
 + [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.to/2o1ptfI) - Charles Stransky
 
@@ -42,6 +36,8 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford
 
++ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian
+
 ## Communication
 
 + [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier
@@ -50,23 +46,25 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) -  Chris Voss,‎ Tahl Raz
 
++ [TED Talks: The Official TED Guide to Public Speaking](http://amzn.to/2n9yW5L) - Chris Anderson
+
+## Design
+
++ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug
+
++ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug
+
++ [Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design](http://amzn.to/2oBaXwv) - William Lidwell, Kritina Holden, Jill Butler
+
++ [100 Things Every Designer Needs to Know About People](http://amzn.to/2n9rHuM) - Susan Weinschenk
+
 ## Creativity
 
 + [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) - The Great Courses, Gerard Puccio
 
 + [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) - Steven Pressfield
 
-## Usability
-
-+ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug
-
-+ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug
-
-## Graphic Design
-
-+ [Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design](http://amzn.to/2oBaXwv) - William Lidwell, Kritina Holden, Jill Butler
-
-+ [100 Things Every Designer Needs to Know About People](http://amzn.to/2n9rHuM) - Susan Weinschenk
++ [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger
 
 ## Biography
 
