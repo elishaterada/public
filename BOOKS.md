@@ -1,21 +1,6 @@
 # My Reading List
 
 Books & Audiobooks I've read and listened worth keeping a record of.
-
-## Programming
-
-+ [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://amzn.to/2oBafiP) - Chad Fowler
-
-+ [The Pragmatic Programmer: From Journeyman to Master](http://amzn.to/2o1HNp5) - Andrew Hunt, David Thomas
-
-+ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford
-
-## Creativity
-
-+ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) - The Great Courses, Gerard Puccio
-
-+ [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) - Steven Pressfield
-
 ## Management & Leadership
 
 + [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Laszlo Bock
@@ -33,30 +18,11 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [TED Talks: The Official TED Guide to Public Speaking](http://amzn.to/2n9yW5L) - Chris Anderson
 
-+ [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier
-
 + [The Five Dysfunctions of a Team: A Leadership Fable](http://amzn.to/2o1ptfI) - Charles Stransky
 
 + [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](http://amzn.to/2n9l4Zk) - The Great Courses, Michael A. Roberto
 
-+ [Effective Communication Skills](https://www.audible.com/pd/Self-Development/Effective-Communication-Skills-Audiobook/B00D94332Q) - The Great Courses
-
-## Productivity
-
-+ [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Attention/dp/1101904038) - Chris Bailey
-## Usability
-
-+ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug
-
-+ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug
-
-## Biography
-
-+ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) - Ashlee Vance
-
 ## Marketing & Sales
-
-+ [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) -  Chris Voss,‎ Tahl Raz
 
 + [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) - The Great Courses
 
@@ -68,11 +34,47 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [Achieve Sales Excellence: The 7 Customer Rules for Becoming the New Sales Professional](http://amzn.to/2oBbf6d) - Howard Stevens
 
+## Programming
+
++ [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://amzn.to/2oBafiP) - Chad Fowler
+
++ [The Pragmatic Programmer: From Journeyman to Master](http://amzn.to/2o1HNp5) - Andrew Hunt, David Thomas
+
++ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford
+
+## Communication
+
++ [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2nIrfzH) - Michael Bungay Stanier
+
++ [Effective Communication Skills](https://www.audible.com/pd/Self-Development/Effective-Communication-Skills-Audiobook/B00D94332Q) - The Great Courses
+
++ [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) -  Chris Voss,‎ Tahl Raz
+
+## Creativity
+
++ [The Creative Thinker's Toolkit](https://www.amazon.com/The-Creative-Thinkers-Toolkit/dp/B00GT1MXHM/) - The Great Courses, Gerard Puccio
+
++ [The War of Art: Winning the Inner Creative Battle](http://amzn.to/2n9GLZo) - Steven Pressfield
+
+## Usability
+
++ [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)](http://amzn.to/2oBrwIC) - Steve Krug
+
++ [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://amzn.to/2nW4DfY) - Steve Krug
+
 ## Graphic Design
 
 + [Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design](http://amzn.to/2oBaXwv) - William Lidwell, Kritina Holden, Jill Butler
 
 + [100 Things Every Designer Needs to Know About People](http://amzn.to/2n9rHuM) - Susan Weinschenk
+
+## Biography
+
++ [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) - Ashlee Vance
+
+## Productivity
+
++ [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Attention/dp/1101904038) - Chris Bailey
 
 ## Home Improvement & Design
 
