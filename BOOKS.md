@@ -1,4 +1,4 @@
-# My Reading List
+# Books
 
 Books & Audiobooks I've read and listened worth keeping a record of.
 ## Management & Leadership

@@ -1,4 +1,4 @@
-# My Favorite Quotes
+# Quotes
 
 My favorite quotes / tips worth keeping record of.
 
