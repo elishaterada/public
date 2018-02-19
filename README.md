@@ -4,6 +4,7 @@ This is where I keep record of my `/public` self.
 
 + [Favorite Books / Audiobooks](BOOKS.md)
 + [Favorite Quotes](QUOTES.md)
++ [Favorite Developer Jokes](JOKES.md)
 + [Pragmatic Thoughts](THOUGHTS.md)
 
 ### Thanks
