@@ -68,7 +68,7 @@ My favorite developer jokes worth keeping track of.
 
 ## Which full-stack developer are you?
 
-![Which full-stack developer are you?](http://www.commitstrip.com/en/2016/11/07/which-full-stack-developer-are-you/)
+![Which full-stack developer are you?](https://www.commitstrip.com/wp-content/uploads/2016/11/Strip-Nous-sommes-tous-Full-stack-english650-final.jpg)
 
 ## Where does it come from?
 
