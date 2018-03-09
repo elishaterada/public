@@ -78,11 +78,13 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/2o7UDT0) - Marie Kondo
 
-## Happiness
+## Self-Improvement
 
 + [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](http://amzn.to/2oB8PVx) - Mark Manson
 
 + [Make Your Bed: Little Things That Can Change Your Life...And Maybe the World](https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249) - William H. McRaven
+
++ [Grit: The Power of Passion and Perseverance](https://www.audible.com/pd/Science-Technology/Grit-Audiobook/B01D3AC5BA?ref=a_a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=M8ASK2F5SNKBVP1RZ463&)
 
 ## Humor
 
