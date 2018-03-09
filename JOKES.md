@@ -36,7 +36,7 @@ My favorite developer jokes worth keeping track of.
 
 ## Which is worse?
 
-![Which is worse?](http://www.commitstrip.com/en/2017/05/09/which-is-worse/)
+![Which is worse?](https://www.commitstrip.com/wp-content/uploads/2017/05/Strip-Chez-nous-on-debug-en-prod-650-finalenglish.jpg)
 
 ## When we leave coders to do their own thing
 
