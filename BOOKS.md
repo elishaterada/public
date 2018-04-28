@@ -66,6 +66,10 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger
 
++ [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/142219602X/) - Clayton M. Christensen
+
++ [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
+
 ## Biography
 
 + [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) - Ashlee Vance
