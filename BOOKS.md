@@ -40,7 +40,7 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.audible.com/pd/Business/First-Break-All-the-Rules-Audiobook/B01N6CGHWI) - By: Marcus Buckingham, Curt Coffman, Jim Harter - foreword
 
-+ [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.audible.com/pd/Bios-Memoirs/Delivering-Happiness-Audiobook/B003O5FNTG)
++ [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.audible.com/pd/Bios-Memoirs/Delivering-Happiness-Audiobook/B003O5FNTG) - Tony Hsieh
 
 ## Marketing & Sales
 
