@@ -1,6 +1,28 @@
 # Books
 
 Books & Audiobooks I've read and listened worth keeping a record of.
+
+
+## Startup / Innovation
+
++ [The Launch Pad: Inside Y Combinator, Silicon Valley's Most Exclusive School for Startups](https://www.audible.com/pd/Business/The-Launch-Pad-Audiobook/B009IS9FD8) - Randall Stross
+
++ [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
+
++ [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/142219602X/) - Clayton M. Christensen
+
++ [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://amzn.to/2oBbsX3) - Guy Kawasaki
+
+## Programming
+
++ [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://amzn.to/2oBafiP) - Chad Fowler
+
++ [The Pragmatic Programmer: From Journeyman to Master](http://amzn.to/2o1HNp5) - Andrew Hunt, David Thomas
+
++ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford
+
++ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian
+
 ## Management & Leadership
 
 + [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Laszlo Bock
@@ -16,6 +38,10 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [Transformational Leadership: How Leaders Change Teams, Companies, and Organizations](http://amzn.to/2n9l4Zk) - The Great Courses, Michael A. Roberto
 
++ [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.audible.com/pd/Business/First-Break-All-the-Rules-Audiobook/B01N6CGHWI) - By: Marcus Buckingham, Curt Coffman, Jim Harter - foreword
+
++ [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.audible.com/pd/Bios-Memoirs/Delivering-Happiness-Audiobook/B003O5FNTG)
+
 ## Marketing & Sales
 
 + [How Ideas Spread](https://www.amazon.com/How-Ideas-Spread/dp/B00MFW91MO) - The Great Courses
@@ -28,15 +54,6 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [Achieve Sales Excellence: The 7 Customer Rules for Becoming the New Sales Professional](http://amzn.to/2oBbf6d) - Howard Stevens
 
-## Programming
-
-+ [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://amzn.to/2oBafiP) - Chad Fowler
-
-+ [The Pragmatic Programmer: From Journeyman to Master](http://amzn.to/2o1HNp5) - Andrew Hunt, David Thomas
-
-+ [JavaScript: The Good Parts](http://amzn.to/2nCM3rE) - Douglas Crockford
-
-+ [Algorithms to Live By: The Computer Science of Human Decisions](http://amzn.to/2oBbUVx) - Brian Christian
 
 ## Communication
 
@@ -66,10 +83,6 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 + [A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas](http://amzn.to/2vlaPAN) - Warren Berger
 
-+ [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/142219602X/) - Clayton M. Christensen
-
-+ [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
-
 ## Biography
 
 + [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://amzn.to/2rIXrbI) - Ashlee Vance
@@ -77,8 +90,6 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 ## Productivity
 
 + [The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy](https://www.amazon.com/Productivity-Project-Accomplishing-Managing-Attention/dp/1101904038) - Chris Bailey
-
-## Home Improvement & Design
 
 + [The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing](http://amzn.to/2o7UDT0) - Marie Kondo
 
@@ -93,7 +104,3 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 ## Humor
 
 + [100 Tricks to Appear Smart in Meetings: How to Get By Without Even Trying](http://amzn.to/2n9GAgw) - Sarah Cooper
-
-## Startup
-
-+ [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](http://amzn.to/2oBbsX3) - Guy Kawasaki
