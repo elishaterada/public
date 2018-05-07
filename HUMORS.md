@@ -1,6 +1,13 @@
-# Developer Jokes
+# Developer Humors
 
-My favorite developer jokes worth keeping track of.
+My favorite developer humors worth keeping track of.
+
+## That's our job
+![That's our job](https://www.commitstrip.com/wp-content/uploads/2018/04/Strip-OpenClassRoom-english650-final.jpg)
+
+## Why does it take such a long time?
+
+![Why does it take such a long time?](https://www.commitstrip.com/wp-content/uploads/2018/04/Strip-Le-temps-de-lhesitation-english650-final.jpg)
 
 ## IT Project Estimates
 
