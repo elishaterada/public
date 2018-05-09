@@ -25,6 +25,8 @@ Books & Audiobooks I've read and listened worth keeping a record of.
 
 ## Management & Leadership
 
++ [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
+
 + [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Laszlo Bock
 
 + [Extreme Ownership: How U.S. Navy SEALs Lead and Win](http://amzn.to/2oGzFsq) - 
