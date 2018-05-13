@@ -10,6 +10,10 @@ A list of my favorite books I recommend others to read today.
 
 + [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/142219602X/) - Clayton M. Christensen
 
++ [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - by Peter Thiel, Blake Masters
+
++ [REWORK: Rework shows you a better, faster, easier way to succeed in business.](https://basecamp.com/books/rework) - by Jason Fried, David Heinemeier Hansson
+
 ## Programming
 
 + [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/) - Chad Fowler
